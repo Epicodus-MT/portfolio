@@ -1,35 +1,73 @@
-.container#center-position {
+.jumbotro {
+
+  max-width: 900px;
+  margin: auto;
+}
+.container {
+  padding-top: 30px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  background-color: #AED6F1
+}
+
+.center-body ol {
+  max-width: 200px;
+  margin: auto;
+}
+
+.center-body ul {
+  max-width: 200px;
+  margin: auto;
+}
+
+.center-body h3 {
+  text-align: center;
+}
+
+.center-position {
   text-align: center;
 }
 
 .left-position {
   text-align: left;
 }
+.panel{
+  max-width: 600px;
+  margin: auto;
+}
+.projects {
+  max-width: 600px;
+  margin: auto;
+}
 .about-me {
-  float: left;
+  max-width: 800px;
+  margin: auto;
   border: 2px solid black;
   margin: 10px;
   text-align: left;
 }
 
-.about-me h5 {
-  font-size: 24px;
-  font-family: cursive;
+.container.about-me{
+  background-color: white;
 }
 
 .center-body#background {
-  background: #FA8072;
+  background: #A9DFBF;
 }
 
 .center-body#hobbies {
-  background: #67CBFD;
+  background: #FADBD8  ;
 }
 
 .center-body#why-programming {
-  background: #67FD6A;
+  background: #E8DAEF;
 }
 
-h4 {
-  font-size: 32px;
-  font-family: sans-serif;
+.bg-info {
+  max-width: 400px;
+  margin: auto;
+}
+.thank-you {
+  text-align: center;
 }
