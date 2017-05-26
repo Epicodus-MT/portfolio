@@ -1,3 +1,9 @@
+body {
+  background-color: #B4F2EA;
+  background-image: url("../img/stripes.jpeg");
+  text-align: center;
+}
+
 .jumbotro {
 
   max-width: 900px;
@@ -43,15 +49,18 @@
 .about-me {
   max-width: 800px;
   margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
   border: 2px solid black;
-  margin: 10px;
   text-align: left;
+  background-color: #DAECEF;
 }
 
-.container.about-me{
-  background-color: white;
+.space {
+  max-width: 700px;
+  margin: auto;
 }
-
 .center-body#background {
   background: #A9DFBF;
 }
@@ -62,6 +71,10 @@
 
 .center-body#why-programming {
   background: #E8DAEF;
+}
+
+.bg-info img {
+  float:right;
 }
 
 .bg-info {
