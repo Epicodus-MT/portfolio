@@ -1,0 +1,30 @@
+.about_me {
+  width: 500px;
+  float: left;
+  border: 2px solid black;
+  height: 400px;
+  margin: 10px;
+  text-align: center;
+}
+
+.index p {
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+.center-body#background {
+  background: #FA8072;
+}
+
+.center-body#hobbies {
+  background: #67CBFD;
+}
+
+.center-body#why-programming {
+  background: #67FD6A;
+}
+
+h3 {
+  font-size: 32px;
+  font-family: cursive;
+}
