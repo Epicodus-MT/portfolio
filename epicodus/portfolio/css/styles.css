@@ -1,15 +1,20 @@
-.about_me {
-  width: 500px;
-  float: left;
-  border: 2px solid black;
-  height: 400px;
-  margin: 10px;
+.container#center-position {
   text-align: center;
 }
 
-.index p {
+.left-position {
+  text-align: left;
+}
+.about-me {
+  float: left;
+  border: 2px solid black;
+  margin: 10px;
+  text-align: left;
+}
+
+.about-me h5 {
   font-size: 24px;
-  font-family: sans-serif;
+  font-family: cursive;
 }
 
 .center-body#background {
@@ -24,7 +29,7 @@
   background: #67FD6A;
 }
 
-h3 {
+h4 {
   font-size: 32px;
-  font-family: cursive;
+  font-family: sans-serif;
 }
